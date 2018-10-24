@@ -6,13 +6,13 @@ JAR(Java ARchive 归档)，简单的理解就是写好的一些类（或者其�
 
 ## 2 cmd下使用jar命令打jar包
 
-![jar -help](_v_images/_jarhelp_1540374714_20212.png)
+![jar -help](https://wxpp.oss-cn-qingdao.aliyuncs.com/blogimages/jar%E5%8C%85%E7%9B%B8%E5%85%B3%20_%20%E7%8E%8B%E5%B0%8F%E6%B3%A1%E6%B3%A1%20_%20%E5%8D%9A%E5%AE%A2%E5%9B%AD/942777-20170804132157428-5989956.png)
 
 2.1 示例一:文件归档
 
 现在已经有Hello.java和对应的类文件
 
-![java文件](_v_images/_java文件_1540374985_31201.png)
+![java文件](https://wxpp.oss-cn-qingdao.aliyuncs.com/blogimages/jar%E5%8C%85%E7%9B%B8%E5%85%B3%20_%20%E7%8E%8B%E5%B0%8F%E6%B3%A1%E6%B3%A1%20_%20%E5%8D%9A%E5%AE%A2%E5%9B%AD/942777-20170804132751569-196444147.png)
 
 `Hello.java`
 ```java
