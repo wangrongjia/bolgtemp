@@ -14,7 +14,7 @@ java是一门编程语言，不同于汇编这种低级的计算机编程语言,
 
 `系统变量` 中新增    `JAVA_HOME`  的变量    值为   jdk安装目录
 
-![JAVA_HOME 变量](_v_images/_java_home变_1540369695_15262.png)
+![JAVA_HOME 变量](https://wxpp.oss-cn-qingdao.aliyuncs.com/blogimages/helloworld/942777-20170719190622021-2038048019.png)
 
 
 同样的 ，`系统变量` 新增 类路径系统变量 `CLASSPATH`   值为 `%JAVA_HOME%/lib`  这一步的目的是在任何路径下都可以引用jdk自带的jar包
@@ -39,4 +39,4 @@ javac Hello.java
 #运行java文件
 java Hello
 ```
-![cmd中运行hello world](_v_images/_cmd中运行hell_1540371329_14644.png)
+![cmd中运行hello world](https://wxpp.oss-cn-qingdao.aliyuncs.com/blogimages/helloworld/942777-20170719192527474-63733593.png)
